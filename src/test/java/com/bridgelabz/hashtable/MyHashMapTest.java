@@ -1,5 +1,4 @@
 package com.bridgelabz.hashtable;
-  
 
 import junit.framework.TestCase;
 import org.junit.Test;
